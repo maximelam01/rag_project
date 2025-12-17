@@ -2,6 +2,32 @@
 RAG application deploy on the cloud
 ## link of the application : https://rag-project-162391846946.europe-west1.run.app/
 
+
+This project is an **educational conversational agent** using **RAG (Retrieval-Augmented Generation)** built with **FastAPI**, **LangChain**, and **OpenAI**. It allows users to ask questions related to political science and get detailed, step-by-step answers from internal documents and external search results.
+
+---
+
+## 🚀 Features
+
+- Conversational agent interface
+- Retrieval of relevant internal documents (vector search)
+- Optional external search for missing information
+- Step-by-step reasoning for explanations
+- Maintains a **conversation history** (up to 20 messages)
+- Deployed on **GCP Cloud Run** with a public URL
+
+---
+
+## 📦 Tech Stack
+
+- **Backend**: Python, FastAPI, LangChain, OpenAI API
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: PostgreSQL (for document storage and vector search)
+- **Containerization**: Docker
+- **Cloud Deployment**: Google Cloud Run
+
+---
+
 Project: Educational Agent for Political Science Course (RAG + CoT Reasoning)
 Our project aims to develop an intelligent agent designed to assist students in
 understanding a political science course by answering questions and explaining
