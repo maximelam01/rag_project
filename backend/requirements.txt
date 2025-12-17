@@ -1,0 +1,15 @@
+langchain==0.1.4
+langchain-openai
+langchain-community
+chromadb
+pypdf
+python-dotenv
+tiktoken
+openai
+psycopg2-binary 
+pgvector 
+python-dotenv
+PyPDF2
+google-search-results
+fastapi
+uvicorn[standard]
