@@ -22,7 +22,7 @@ This project is an **educational conversational agent** using **RAG (Retrieval-A
 
 - **Backend**: Python, FastAPI, LangChain, OpenAI API
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: PostgreSQL (for document storage and vector search)
+- **Database**: PostgreSQL (for document storage and vector search) on GCP
 - **Containerization**: Docker
 - **Cloud Deployment**: Google Cloud Run
 
