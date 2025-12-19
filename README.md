@@ -3,7 +3,7 @@ RAG application deploy on the cloud
 ## link of the application : https://rag-project-162391846946.europe-west1.run.app/
 
 
-This project is an **educational conversational agent** using **RAG (Retrieval-Augmented Generation)** built with **FastAPI**, **LangChain**, and **OpenAI**. It allows users to ask questions related to political science and get detailed, step-by-step answers from internal documents and external search results.
+This project is an **educational conversational agent** using **RAG (Retrieval-Augmented Generation)** built with **FastAPI**, **LangChain**, and **OpenAI**. It allows users to ask questions related to political science and get detailed, step-by-step answers from internal documents and external search results. It's an agent who choose which tool use (interal/extenal info)
 
 ---
 
